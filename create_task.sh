@@ -1,4 +1,4 @@
-echo "Ente new task name"
+echo "Enter new task name"
 read task_name
 
 mkdir ./roles/$task_name
